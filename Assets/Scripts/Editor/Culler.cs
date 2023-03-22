@@ -41,7 +41,7 @@ public class Culler : MonoBehaviour
 
 [CustomEditor(typeof(Culler))]
 [CanEditMultipleObjects]
-public class CullerEditor : Editor
+public class CullerEditor : UnityEditor.Editor
 {
 
     void OnEnable()

@@ -1,0 +1,30 @@
+{
+  "unityVersion": "2022.2.9f1",
+  "perceptionVersion": "1.0.0-preview.1",
+  "renderPipeline": "HDRP",
+  "simulationStartTime": "3/23/2023 5:26:50 PM",
+  "scenarioRandomSeed": 539662289,
+  "scenarioActiveRandomizers": [
+    "TransformRandomizer",
+    "SunAngleRandomizer",
+    "SkyboxRandomizer",
+    "VolumeRandomizer",
+    "LightRandomizer"
+  ],
+  "totalFrames": 100,
+  "totalSequences": 100,
+  "sensors": [
+    "camera"
+  ],
+  "metricCollectors": [
+    "scenario_iteration",
+    "random-seed"
+  ],
+  "simulationEndTime": "3/23/2023 5:26:55 PM",
+  "annotators": [
+    {
+      "name": "bounding box",
+      "type": "type.unity.com/unity.solo.BoundingBox2DAnnotation"
+    }
+  ]
+}

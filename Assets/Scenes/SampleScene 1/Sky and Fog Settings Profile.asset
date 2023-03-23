@@ -121,7 +121,7 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 0
   skyIntensityMode:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
   exposure:
     m_OverrideState: 0
@@ -136,8 +136,8 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: {x: 0.28189498, y: 0.36618719, z: 0.5}
   desiredLuxValue:
-    m_OverrideState: 1
-    m_Value: 13005.17
+    m_OverrideState: 0
+    m_Value: 110000
   updateMode:
     m_OverrideState: 0
     m_Value: 0
@@ -152,7 +152,7 @@ MonoBehaviour:
     m_Value: {fileID: 8900000, guid: 2a92c0f9e45f1c44a8e218495a64a2b0, type: 3}
   distortionMode:
     m_OverrideState: 0
-    m_Value: 0
+    m_Value: 1
   flowmap:
     m_OverrideState: 0
     m_Value: {fileID: 0}
@@ -160,14 +160,14 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: 1
   scrollOrientation:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value:
       mode: 1
       customValue: 0
       additiveValue: 0
       multiplyValue: 1
   scrollSpeed:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value:
       mode: 1
       customValue: 100
